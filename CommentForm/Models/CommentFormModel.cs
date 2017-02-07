@@ -14,7 +14,7 @@ namespace CommentForm.Models
 
         public string Name { get; set; }
         public string Comment { get; set; }
-        public int Priority { get; set }
+        public int Priority { get; set; }
 
 
     }
